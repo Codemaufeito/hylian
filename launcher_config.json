@@ -1,0 +1,35 @@
+{
+	"clientVersion": "15.11.00",
+	"launcherVersion": "1.10",
+	"replaceFolders": true,
+	"replaceFolderName": [
+		{
+			"name": "assets"
+		},
+		{
+			"name": "storeimages"
+		},
+		{
+			"name": "bin"
+		}
+	],
+	"clientFolder": "Tibia",
+	"newClientUrl" : "https://github.com/Codemaufeito/launcher/releases/download/v1.0.8-easy/client-to-update.zip",
+	"clientExecutable": "client.exe",
+	"assetsZipUrl": "https://github.com/Codemaufeito/launcher/releases/download/assets_v1/Assets.zip",
+	"imageNames": {
+		"logo": "logo.png",
+		"logoCompany": "logo_company.png",
+		"background": "background.jpg",
+		"buttonPlay": "button_play.png",
+		"buttonUpdate": "button_update.png",
+		"buttonHoverPlay": "button_hover_play.png",
+		"buttonHoverUpdate": "button_hover_update.png",
+		"iconPlay": "icon_play.png",
+		"iconUpdate": "icon_update.png",
+		"bgButtonUpdate": "bg_button_update.png",
+		"bgHints": "bg_hints.png",
+		"rhLore": "rh_lore.png",
+		"launcherIco": "launcher_ico.png"
+	}
+}
