@@ -14,7 +14,7 @@
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/Codemaufeito/hylian/releases/download/v0.0.2/client-to-update.zip",
+	"newClientUrl" : "https://github.com/Codemaufeito/hylian/releases/download/v0.0.3/client-to-update.zip",
 	"clientExecutable": "client.exe",
 	"assetsZipUrl": "https://github.com/Codemaufeito/hylian/releases/download/v0.0.1/Assets.zip",
 	"imageNames": {
