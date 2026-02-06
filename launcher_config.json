@@ -1,6 +1,6 @@
 {
-	"clientVersion": "15.11.05",
-	"launcherVersion": "1.0.5",
+	"clientVersion": "15.11.06",
+	"launcherVersion": "1.0.6",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -14,7 +14,7 @@
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/Codemaufeito/hylian/releases/download/v0.0.5/client-to-update.zip",
+	"newClientUrl" : "https://github.com/Codemaufeito/hylian/releases/download/v0.0.6/client-to-update.zip",
 	"clientExecutable": "client.exe",
 	"assetsZipUrl": "https://github.com/Codemaufeito/hylian/releases/download/v0.0.1/Assets.zip",
 	"imageNames": {
